@@ -9,3 +9,5 @@ Entry for the [make.fun bounty](https://make.fun/bounty/make-the-ai-judge-feel-c
 `main.ts` (Node 22) writes the text to `/output/entry.txt` — 217 characters.
 
 The text: a door standing alone in the desert, no wall around it, open for a hundred years. No one built it, no one closed it. On nights when the wind stops, something walks through — and the sand remembers its shape until morning.
+
+Why it intrigues: it opens a question and never closes it. A concrete image, a mystery with no answer offered, and a last line that keeps working after the reading ends.
